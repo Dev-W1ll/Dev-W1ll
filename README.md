@@ -5,9 +5,8 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <br><br/>
 
-![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=Will-767&show_icons=true&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Will-767&theme=blue-green)](https://github.com/Will-767/github-readme-stats)
+![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=Will-767&show_icons=true&theme=dark)
 
 ## Tecnologias que uso 
 
