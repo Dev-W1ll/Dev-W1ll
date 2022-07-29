@@ -1,7 +1,9 @@
 
-#### Olá! Eu sou o Willian Varella! 🧑🏽‍💻
+### Olá! Eu sou o Willian Varella! 🧑🏽‍💻
+<br>
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<br><br/>
 
 ![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=Will-767&show_icons=true&theme=dark)
 
@@ -18,4 +20,13 @@
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img align="center" alt="JsonWebTokens" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
-</div>
+</div><br/>
+<hr>
+
+### "Você pode mudar o que faz, mas não pode mudar o que quer."
+<hr>
+
+- 👨🏻‍🎓 Formado em Técnico em Informática,
+- 🧑🏽‍💻 Trabalhando como Dev Jr,
+- 👨🏻‍💼 MBTI: INTJ;
+<hr/>
