@@ -6,8 +6,8 @@
 <br>
 <br>
 <div>
-  <img align="center" height="200cm" src="https://github-readme-stats.vercel.app/api?username=Will-767&show_icons=true&theme=dark"/>
-  <img align="center" height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-767&layout=compact&theme=dark"/>
+  <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=Will-767&show_icons=true&theme=dark"/>
+  <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-767&layout=compact&theme=dark"/>
 </div>
 
 ## Tecnologias que uso 
