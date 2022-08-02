@@ -1,12 +1,14 @@
 
-### Olá! Eu sou o Willian Varella! 🧑🏽‍💻
+### Olá! Eu sou o Willian Varella, Técnico em Informática e Dev Jr! 🧑🏽‍💻
 <br>
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-<br><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Will-767&theme=blue-green)](https://github.com/Will-767/github-readme-stats)
-![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=Will-767&show_icons=true&theme=dark)
+<br>
+<br>
+<div>
+  <img align="center" height="200cm" src="https://github-readme-stats.vercel.app/api?username=Will-767&show_icons=true&theme=dark"/>
+  <img align="center" height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-767&layout=compact&theme=dark"/>
+</div>
 
 ## Tecnologias que uso 
 
