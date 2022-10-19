@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Willian Varella, Técnico em Informática e Dev Jr! 🧑🏽‍💻
+### Olá! Eu sou o Willian, Técnico em Informática, Desenvolvedor e Analista de Desenvolvimento de Sistemas! 🧑🏽‍💻
 <br>
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -28,6 +28,6 @@
 <hr>
 
 - 👨🏻‍🎓 Formado em Técnico em Informática,
-- 🧑🏽‍💻 Trabalhando como Dev Jr,
+- 🧑🏽‍💻 Trabalhando como Analista de Desenvolvimento de Sistemas,
 - 👨🏻‍💼 MBTI: INTJ;
 <hr/>
