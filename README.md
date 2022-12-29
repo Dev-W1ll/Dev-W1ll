@@ -1,9 +1,6 @@
 
 ### Olá! Eu sou o Willian, sou formado em Técnico em Informática, sou Desenvolvedor Full Stack! Bem-vindo(a) ao meu perfil! 🧑🏽‍💻
-<br>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-<br>
 <br>
 <div>
   <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=Will-767&show_icons=true&theme=dark"/>
