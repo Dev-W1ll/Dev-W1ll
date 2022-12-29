@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Willian, sou formado em Técnico em Informática, sou Desenvolvedor Full Stack! Bem-vindo(a) ao meu perfil! 🧑🏽‍💻
+### Olá! Eu sou o Willian, sou formado em Técnico em Informática e sou Desenvolvedor Full Stack! Bem-vindo(a) ao meu perfil! 🧑🏽‍💻
 
 <br>
 <div>
