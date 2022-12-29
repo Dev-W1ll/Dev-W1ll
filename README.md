@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Willian, Técnico em Informática, Desenvolvedor e Analista de Desenvolvimento de Sistemas! 🧑🏽‍💻
+### Olá! Eu sou o Willian, sou formado em Técnico em Informática, sou Desenvolvedor Full Stack! Bem-vindo(a) ao meu perfil! 🧑🏽‍💻
 <br>
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -28,6 +28,6 @@
 <hr>
 
 - 👨🏻‍🎓 Formado em Técnico em Informática,
-- 🧑🏽‍💻 Trabalhando como Analista de Desenvolvimento de Sistemas,
+- 🧑🏽‍💻 Trabalhando como Desenvolvedor Full Stack,
 - 👨🏻‍💼 MBTI: INTJ;
 <hr/>
