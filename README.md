@@ -1,31 +1,56 @@
+<h2 align="left">Hi 👋! My name is Willian and I'm a Systems Development Analyst, Junior Full-Stack Developer, and IT Technician, from Brazil</h2>
 
-# Hello, world! 👋
+###
 
-<div>
-  <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=Dev-W1ll&show_icons=true&theme=dark"/>
-  <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-W1ll&layout=compact&theme=dark"/>
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-W1ll&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-W1ll&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-## Sobre Mim
-Sou um desenvolvedor full stack junior e técnico em informática explorando o vasto universo da programação e aprendendo algo novo todos os dias. Meu MBTI é INTJ-A.
+###
 
-Durante meus estudos no curso técnico em informática, descobri meu fascínio pelo desenvolvimento de software e decidi me especializar nessa área. A partir disso, comecei a estudar por conta própria e desenvolver minhas próprias aplicações.
+<br clear="both">
 
-Entre minhas competências, destaco a habilidade em trabalhar em equipe, a capacidade de comunicação clara e objetiva, o pensamento crítico e a resolução de problemas complexos. Também tenho experiência em HTML, CSS, PHP, JavaScript e em frameworks como Laravel.
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdwc2xudWZ3d2QzdmwzbDE2amh2bnZ4emFpeHh3cnducmY0czN2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
-Procuro sempre estar atualizado com as tendências do mercado e estou sempre buscando novas oportunidades para aprimorar minhas habilidades em desenvolvimento de software. Estou aberto a novos desafios que me permitam crescer como profissional.
+###
 
-## 💻 Tecnologias que utilizo:
-<div style="display: inline_block"><br/>
-<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img align="center" alt="JsonWebTokens" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
-</div><br/>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+</div>
 
-## ☕ Café e Código
-Sempre pronto para uma boa xícara de café enquanto mergulho em linhas de código.
+###
+
+<!-- <div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Dev-W1ll/Dev-W1ll/output/snake.svg" alt="Snake animation" />
+
+### -->
