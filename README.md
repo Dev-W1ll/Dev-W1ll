@@ -39,7 +39,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdwc2xudWZ3d2QzdmwzbDE2amh2bnZ4emFpeHh3cnducmY0czN2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<!-- <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdwc2xudWZ3d2QzdmwzbDE2amh2bnZ4emFpeHh3cnducmY0czN2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  /> -->
 
 <br>
 
