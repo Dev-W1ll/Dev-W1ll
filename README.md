@@ -1,6 +1,10 @@
-<h2 align="left">Hi 👋! My name is Willian, I'm a Systems Development Analyst, Junior Full-Stack Developer, and IT Technician from Brazil.</h2>
+<div align="center">
+  <h2>Hi 👋! My name is Willian, I'm a Systems Development Analyst, Junior Full-Stack Developer, and IT Technician from Brazil.</h2>
+</div>
 
 ###
+
+<div align="center">
 
 # 💻 Tech Stack:
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
@@ -30,16 +34,27 @@
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-# 📊 GitHub Stats:
+</div>
+
 <div align="center">
+
+# 📊 GitHub Stats:
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-W1ll&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-W1ll&theme=dark&hide_border=true" height="150" alt="GitHub streak stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-W1ll&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top languages" />
+
 </div>
 
+<div align="center">
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
-<!-- <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdwc2xudWZ3d2QzdmwzbDE2amh2bnZ4emFpeHh3cnducmY0czN2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  /> -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<!--
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdwc2xudWZ3d2QzdmwzbDE2amh2bnZ4emFpeHh3cnducmY0czN2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+-->
+
+</div>
 
 <br>
 
